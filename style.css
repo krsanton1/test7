@@ -363,3 +363,8 @@ li {
 	color: #fff;
 	transition: 0.6s
 }
+@media (max-width: 800px) { 
+	.back-4 {
+		height: 50vh;
+	}
+}
